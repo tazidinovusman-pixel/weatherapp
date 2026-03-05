@@ -11,7 +11,7 @@
   height: 100vh;
   width: 100vw;
   display: flex;
-  background: url('https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=2000&auto=format&fit=crop') no-repeat center/cover;
+  /* background: url('https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=2000&auto=format&fit=crop') no-repeat center/cover; */
   transition: background 0.5s ease-in-out;
 }
 
